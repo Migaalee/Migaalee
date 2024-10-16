@@ -4,7 +4,7 @@ Hi 👋 My name is Migla Miskinyte
 Biomedical Data Scientist
 -------------------------
 
-I am inter-disciplinary scientist with a strong educational foundation, including a BSc in Bioengineering, a PhD in Life Sciences and MSc degree in Big Data Engineering (Data Science). I specialize in complex data analysis in multi-omics (bioinformatics), machine learning, and drug discovery. I enjoy keeping a fast pace with evolving requirements of the data science and healthcare sectors.
+I am cross-disciplinary scientist with a strong educational foundation, including a BSc in Bioengineering, a PhD in Life Sciences and MSc degree in Big Data Engineering (Data Science). I specialize in complex data analysis in multi-omics (bioinformatics), machine learning, and drug discovery. I enjoy keeping a fast pace with evolving requirements of the data science and healthcare sectors.
 
 * 🌍  I'm based in Lisbon
 * 🖥️  See my portfolio at [https://www.linkedin.com/in/mmiskinyte/](http://https://www.linkedin.com/in/mmiskinyte/)
